@@ -1,0 +1,167 @@
+[
+        {
+                "seasonId": 101,
+                "className": "ICON (ICON)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/icon.png"
+        },
+        {
+                "seasonId": 201,
+                "className": "NHD (National Hero Debut)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/nhd.png"
+        },
+        {
+                "seasonId": 202,
+                "className": "TKI (Team Korea Icon)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/tki.png"
+        },
+        {
+                "seasonId": 206,
+                "className": "TB (Tournament Best)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/tb.png"
+        },
+        {
+                "seasonId": 207,
+                "className": "TT (Top Transfer)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/tt.png"
+        },
+        {
+                "seasonId": 210,
+                "className": "GR (Golden Rookies)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/gr.png"
+        },
+        {
+                "seasonId": 211,
+                "className": "19 TOTY (19 Team Of The Year)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/19toty.png"
+        },
+        {
+                "seasonId": 212,
+                "className": "18 TOTY (18 Team Of The Year)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/18toty.png"
+        },
+        {
+                "seasonId": 213,
+                "className": "Man City ICON (Man City ICON)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/mcicon.png"
+        },
+        {
+                "seasonId": 214,
+                "className": "TC (Tournament Champions)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/tc.png"
+        },
+        {
+                "seasonId": 215,
+                "className": "19 TOTS (19 Team Of The Season)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/19tots.png"
+        },
+        {
+                "seasonId": 216,
+                "className": "HOT (Heroes Of the Team)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/hot.png"
+        },
+        {
+                "seasonId": 217,
+                "className": "COC (Competitor Of Continents)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/coc.png"
+        },
+        {
+                "seasonId": 218,
+                "className": "OTW (Ones To Watch)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/otw.png"
+        },
+        {
+                "seasonId": 219,
+                "className": "NG (NEW GENERATION)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/ng.png"
+        },
+        {
+                "seasonId": 220,
+                "className": "20 TOTY (20 Team Of The Year)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/20toty.png"
+        },
+        {
+                "seasonId": 221,
+                "className": "19 UCL (19 UEFA Champions League)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/19ucl.png"
+        },
+        {
+                "seasonId": 222,
+                "className": "20 TOTN (20 Team Of The Nominated)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/20totn.png"
+        },
+        {
+                "seasonId": 225,
+                "className": "TKL (TEAM K LEAGUE)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/tkl.png"
+        },
+        {
+                "seasonId": 230,
+                "className": "20 TOTS (20 Team Of The Season)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/20tots.png"
+        },
+        {
+                "seasonId": 234,
+                "className": "LH (Loyal Heroes)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/lh.png"
+        },
+        {
+                "seasonId": 236,
+                "className": "LA (Liverpool Ambassador)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/la.png"
+        },
+        {
+                "seasonId": 295,
+                "className": "19 KFA (19 KFA)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/2019kfa.png"
+        },
+        {
+                "seasonId": 297,
+                "className": "MCFC (17-18 Man City Champions)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/mcfc.png"
+        },
+        {
+                "seasonId": 298,
+                "className": "18 KFA (18 KFA)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/kfa.png"
+        },
+        {
+                "seasonId": 300,
+                "className": "19 LIVE (19 LIVE)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/live.png"
+        },
+        {
+                "seasonId": 317,
+                "className": "17 LIVE (17 LIVE)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/17.png"
+        },
+        {
+                "seasonId": 318,
+                "className": "18 LIVE (18 LIVE)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/18.png"
+        },
+        {
+                "seasonId": 500,
+                "className": "18 PLC–A (18 Premium Live Autumn)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/plc.png"
+        },
+        {
+                "seasonId": 501,
+                "className": "18 PLC–S (18 Premium Live Spring)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/18pls.png"
+        },
+        {
+                "seasonId": 502,
+                "className": "19 PLC–A (19 Premium Live Autumn)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/19pla.png"
+        },
+        {
+                "seasonId": 503,
+                "className": "19 PLC–S (19 Premium Live Spring)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/19pls.png"
+        },
+        {
+                "seasonId": 504,
+                "className": "20KLeague (20KLeague)",
+                "seasonImg": "http://s.nx.com/s2/game/fo4/obt/externalAssets/season/20kl.png"
+        }
+]

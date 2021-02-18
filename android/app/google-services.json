@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "582655409849",
+    "firebase_url": "https://fifa-eb0f3.firebaseio.com",
+    "project_id": "fifa-eb0f3",
+    "storage_bucket": "fifa-eb0f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582655409849:android:adf4725b3dab2367f1e568",
+        "android_client_info": {
+          "package_name": "com.ddastudio.fifa_on4_bank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582655409849-ngebr3i9obllr2feu8rcldf921tbhogg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2IJ74mhlqDw5IaNCSo8KCgNpxncWPs-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582655409849-ngebr3i9obllr2feu8rcldf921tbhogg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
